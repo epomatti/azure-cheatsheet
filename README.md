@@ -47,3 +47,11 @@ Collection of relevant AZ-305 notes.
 - Security logs tables for VMs:
   - Windows - Events
   - Linux - Syslog
+
+## Policies
+
+- Policies can be applied to the following scopes:
+  - Management Groups
+  - Subscriptions
+  - Resources Groups
+
