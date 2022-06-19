@@ -13,3 +13,18 @@ Collection of relevant AZ-305 notes.
 - Create eligible and active permissions
 - Both Azure AD and Azure permissions
 - Just-in-Time (JIT)
+
+## Storage
+
+### Storage Account V2
+
+- 
+
+## Azure AD Application Proxy
+
+[How it works](https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy#how-application-proxy-works)
+
+- AAD Application Proxy allows users to connect to an on-premises app without VPN
+- On-premises Application Proxy Connector is required
+  - The connector may authenticate to the on-premises Active Directory
+- Azure AD Enterprise Application is required
