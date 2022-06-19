@@ -30,3 +30,8 @@ Collection of relevant AZ-305 notes.
 - Azure AD Enterprise Application is required **first** - the configuration of the Application Proxy Service is done per app
 - On-premises Application Proxy Connector is required (it runs on Windows on-prem)
   - The connector may authenticate to the on-premises Active Directory
+
+## Databricks
+
+- Premium SKU is required for permissions in the Databricks folders
+- Premium SKU is required for Credential Passthrough
