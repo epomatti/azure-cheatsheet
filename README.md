@@ -35,3 +35,10 @@ Collection of relevant AZ-305 notes.
 
 - Premium SKU is required for permissions in the Databricks folders
 - Premium SKU is required for Credential Passthrough
+
+
+## Network Watcher
+
+- **IP Flow verify** will establish logical verification of connectivity
+- **Connection Troubleshoot** will perform real connectivity tests
+- **Traffic Analytics** provides insights over data collected by Network Watcher services, such as NSG Flow Logs
