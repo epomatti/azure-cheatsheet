@@ -7,6 +7,8 @@ Collection of relevant AZ-305 notes.
 - Able to create access reviews
 - Within access reviews, to send periodic review emails to managers
 - Within access reviews, Automatically revokes access from users if manager doesn't verify the permissions
+- Users can also report for their access reviews
+- Users are removed when report that they don't need the permission, or if they do not respond as well
 
 ## Privileged Access Management (PIM)
 
