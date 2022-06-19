@@ -1,2 +1,3 @@
-# az305-cheatsheet
-Collection of relevant AZ-305 facts
+# AZ-305 Cheatsheet
+
+Collection of relevant AZ-305 notes.

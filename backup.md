@@ -1,0 +1,27 @@
+- [ ] Azure Blueprint
+- [ ] Azure AD Connect (run on premies)
+- [ ] Azure AD Connect Cloud Sync (run on the cloud)
+- [ ] Azure AD Identity Protection
+- [ ] Azure AD Seamless Sign-on
+- [ ] Azure AD Domain Services
+- [ ] Azure AD B2B / External Identities
+- [ ] Azure AD Enterprise Applications
+- [ ] PIM
+- [ ] Databricks
+- [ ] Budgets
+- [ ] User Assigned Managed Identity
+- [ ] Event Hub
+- [ ] Event Grid
+- [ ] RPO / RPT
+- [ ] SQL Server
+- [ ] Data Factory
+- [ ] Data Lake
+- [ ] Synapse
+- [ ] Batch
+- [ ] Azure Defense
+- [ ] Workbooks
+- [ ] Workload Health
+- [ ] Resource Health
+- [ ] Data Explorer
+- [ ] Azure Sentinel
+- [ ] ...
