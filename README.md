@@ -82,4 +82,8 @@ Collection of relevant AZ-305 notes.
 
 ### Managed instances
 
-Up to 16 TB of storage size. Support auto-failover.
+Up to 16 TB of storage size.
+
+Support auto-failover.
+
+Support CLR.
