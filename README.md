@@ -92,3 +92,7 @@ Collection of relevant AZ-305 notes.
 - Support auto-failover.
 - Support CLR.
 
+## Virtual WAN
+
+- **Basic** - Supports only VPN Gateways
+- **Standard** - Required for ExpressRoute
