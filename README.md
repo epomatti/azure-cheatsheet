@@ -16,11 +16,12 @@ Collection of relevant AZ-305 notes.
 - Both Azure AD and Azure permissions
 - Just-in-Time (JIT)
 
-## Storage
+## Storage Accounts
 
-### Storage Account V2
+|          | V1 | FileStorage | BlobStorage | V2 Standard | V2 Premium |
+| -------- | :-------------:| :---------------:|:----:| :---: | :---: |
+| **Access Tier (Hot, Cool)**    | - | -| ✔️ | ✔️ | - |
 
-- 
 
 ## Azure AD Application Proxy
 
@@ -87,3 +88,4 @@ Up to 16 TB of storage size.
 Support auto-failover.
 
 Support CLR.
+
