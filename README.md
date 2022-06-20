@@ -80,3 +80,6 @@ Collection of relevant AZ-305 notes.
 | **Read scale-out** | -  |  -  | ✔️ |
 | **HA Secondary Replicas** | -  |  - | - |
 
+### Managed instances
+
+Up to 16 TB of storage size. Support auto-failover.
