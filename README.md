@@ -18,10 +18,12 @@ Collection of relevant AZ-305 notes.
 
 ## Storage Accounts
 
-|          | V1 | FileStorage | BlobStorage | V2 Standard | V2 Premium |
-| -------- | :-------------:| :---------------:|:----:| :---: | :---: |
-| **Access Tier (Hot, Cool)**    | - | -| ✔️ | ✔️ | - |
-| **File Shares**    | - | ✔️ | - | ✔️ | - |
+|          | V1 | V2 FileStorage <br/> (Premium) | BlobStorage <br/> (Premium) | V2 Standard | 
+| -------- | :-------------:| :---------------:|:----:| :---: | 
+| **Access Tier (Hot, Cool)**    | - | -| ✔️ | ✔️ |
+| **Support File Shares**    | - | ✔️ | - | ✔️ | 
+| **Max Redundancy**    |  | ZRS | ZRS |  | 
+| **Support Transaction Optimized**    |  |  |  |  | 
 
 
 ## Azure AD Application Proxy
