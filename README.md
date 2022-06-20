@@ -55,3 +55,28 @@ Collection of relevant AZ-305 notes.
   - Subscriptions
   - Resources Groups
 
+## SQL Databases
+
+### Tier: vCores
+
+
+|          | General Purpose <br/> (Standard) | Hyperscale | Business Critical <br/> (Premium) |
+| -------- | :-------------:| :---------------:|:----:|
+| **Maximum storage size**    | 4 TB | 100 TB| 4 TB |
+| **Serverless**    | ✔️ | - | - |
+| **Zone Redundant** | ✔️ | ✔️ | ✔️ |
+| **Server License** | ✔️ | ✔️ | ✔️ |
+| **Read scale-out** | -  |  -  | ✔️ |
+| **HA Secondary Replicas** | -  |  ✔️ | - |
+
+### Tier: DTU
+
+|          | Basic | Standard | Premium |
+| -------- | :-------------:| :---------------:|:----:|
+| **Maximum storage size**    | 2 GB | 1 TB| 4 TB |
+| **Serverless**    | - | - | - |
+| **Zone Redundant** | - | - | ✔️ |
+| **Server License** | - | - | - |
+| **Read scale-out** | -  |  -  | ✔️ |
+| **HA Secondary Replicas** | -  |  - | - |
+
