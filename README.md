@@ -21,6 +21,7 @@ Collection of relevant AZ-305 notes.
 |          | V1 | FileStorage | BlobStorage | V2 Standard | V2 Premium |
 | -------- | :-------------:| :---------------:|:----:| :---: | :---: |
 | **Access Tier (Hot, Cool)**    | - | -| ✔️ | ✔️ | - |
+| **File Shares**    | - | ✔️ | - | ✔️ | - |
 
 
 ## Azure AD Application Proxy
