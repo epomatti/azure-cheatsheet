@@ -96,3 +96,9 @@ Collection of relevant AZ-305 notes.
 
 - **Basic** - Supports only VPN Gateways
 - **Standard** - Required for ExpressRoute
+
+## Azure Functions
+
+|          | Consumption | Premium | Dedicated <br/> (App Service Plan)  | ASE |
+| -------- | :-------------:| :---------------:|:----:|:----:|
+| **Virtual Network**    | - | ✔️| - | ✔️ |
