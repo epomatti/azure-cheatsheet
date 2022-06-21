@@ -99,7 +99,7 @@ Collection of relevant AZ-305 notes.
 
 ## Azure Functions
 
-|          | Consumption | Premium | Dedicated <br/> (App Service Plan)  | ASE |
+|          | Consumption <br/> (Serverless) | Premium | Dedicated <br/> (App Service Plan)  | ASE |
 | -------- | :-------------:| :---------------:|:----:|:----:|
 | **Virtual Network**    | - | ✔️| - | ✔️ |
 
@@ -107,3 +107,12 @@ Collection of relevant AZ-305 notes.
 ## Logic Apps
 
 It is possible to connect Logic Apps to an On-premies SQL Server by using an On-premises Data Gateway and a connection gateway resource.
+
+## API Management (APIM)
+
+|          | Consumption <br/> (Serverless) | Basic | Standard | Premium |
+| -------- | :-------------:| :---------------:|:----:|:----:|
+| **Multiple custom domains**    | - | -| - | ✔️ |
+| **Availability zone support**    | - | -| - | ✔️ |
+| **Virtual network support**    | - | -| - | ✔️ |
+| **Multi-region deployment**    | - | -| - | ✔️ |
