@@ -148,7 +148,10 @@ Maximum retention period is 730 days (or 24 months / 2 years).
 
 IT Service Management, for example running on-premises, can me integrated with Azure Monitor to receive alerts of service health by configuring an ITSM Connector action group.
 
-## VM Agents
+## Analysis Services
 
+PaaS solution to provide enterprise-grade data models.
+
+Combine from multiple data-sources into a single tabular data model.
 
 
