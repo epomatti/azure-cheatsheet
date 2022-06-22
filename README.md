@@ -48,9 +48,15 @@ Collection of relevant AZ-305 notes.
 
 ## Monitor
 
+### Security Log Tables
+
 - Security logs tables for VMs:
   - Windows - Events
   - Linux - Syslog
+
+### VM Agents
+
+There are [several agents](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview) that can send data to Azure Monitor.
 
 ## Policies
 
@@ -132,3 +138,8 @@ Maximum retention period is 730 days (or 24 months / 2 years).
 ## IT Service Management (ITSM)
 
 IT Service Management, for example running on-premises, can me integrated with Azure Monitor to receive alerts of service health by configuring an ITSM Connector action group.
+
+## VM Agents
+
+
+
