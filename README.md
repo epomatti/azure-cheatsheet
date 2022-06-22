@@ -98,6 +98,15 @@ There are [several agents](https://docs.microsoft.com/en-us/azure/azure-monitor/
 - Support auto-failover.
 - Support CLR.
 
+### Intelligent Performance
+
+SQL offers the following resources to help with performance:
+
+- **Performance recommendations** - Recommendations:  Optimize the layout of non-clustered indexes, Fix database schema issues, fix database parameterization issues.
+- **Query Performance Insight** - Lists for top long running queries.
+- **Automatic Tuning** - Azure SQL Database built-in intelligence automatically tunes your databases to optimize performance. Click here to learn more about automatic tuning.
+
+
 ## Virtual WAN
 
 - **Basic** - Supports only VPN Gateways
