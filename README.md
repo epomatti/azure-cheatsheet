@@ -121,4 +121,4 @@ It is possible to connect Logic Apps to an On-premies SQL Server by using an On-
 
 To take action with budgets, create a Budget and associate to an Action Group from (Azure Monitor) Alert.
 
-If you wish for example, to turn off resources, it would be created with an Automation Book.
+If you wish for example, to turn off resources, it would be created with an Automation Runbook.
