@@ -157,3 +157,10 @@ Combine from multiple data-sources into a single tabular data model.
 ## Microsoft Sentinel
 
 See and stop threats before they cause harm, with SIEM reinvented for a modern world. Microsoft Sentinel is your birds-eye view across the enterprise.
+
+## Active Directory (AD)
+
+### Hybrid Identity
+
+- **Synchronized identity (passthrough credentials)** allow authentication on Azure AD with on-premises credentials.
+- **Federated identity** allow for authentication by on-premises domain controller.
