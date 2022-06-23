@@ -154,4 +154,6 @@ PaaS solution to provide enterprise-grade data models.
 
 Combine from multiple data-sources into a single tabular data model.
 
+## Microsoft Sentinel
 
+See and stop threats before they cause harm, with SIEM reinvented for a modern world. Microsoft Sentinel is your birds-eye view across the enterprise.
