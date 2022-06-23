@@ -106,6 +106,10 @@ SQL offers the following resources to help with performance:
 - **Query Performance Insight** - Lists for top long running queries.
 - **Automatic Tuning** - Azure SQL Database built-in intelligence automatically tunes your databases to optimize performance. Click here to learn more about automatic tuning.
 
+### Azure SQL Analytics
+
+Operations Management Suite (OMS) is a management offering which provides monitoring for Azure Resources through the Log Analytics service. Log Analytics enables users to collect, correlate and visualize structured and unstructured data. Through the out of the box solutions available in OMS Log Analytics, users can easily monitor and receive notifications on the health of their Azure Resources such as SQL Azure.
+
 
 ## Virtual WAN
 
@@ -164,3 +168,7 @@ See and stop threats before they cause harm, with SIEM reinvented for a modern w
 
 - **Synchronized identity (passthrough credentials)** allow authentication on Azure AD with on-premises credentials.
 - **Federated identity** allow for authentication by on-premises domain controller.
+
+### Microsoft Office 365 IdFix
+
+IdFix is used to perform discovery and remediation of identity objects and their attributes in an on-premises Active Directory environment in preparation for migration to Azure Active Directory.
