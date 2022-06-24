@@ -185,6 +185,10 @@ From [compare AD Auth methods](https://docs.microsoft.com/en-us/azure/active-dir
 
 Seamless Sign-on is compatible with Pass-through and also Password-hash synchronization.
 
+### Graph API permissions
+
+To give an app delegated permissions, such as managing access reviews or key vault, create an App on Azure AD admin center, and apply API permissions in the app for Graph API.
+
 ## Blueprints
 
 Only blueprints can restrict Subscription owner permissions, such as deleting resources groups via Blueprint lock.
