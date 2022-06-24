@@ -172,3 +172,11 @@ See and stop threats before they cause harm, with SIEM reinvented for a modern w
 ### Microsoft Office 365 IdFix
 
 IdFix is used to perform discovery and remediation of identity objects and their attributes in an on-premises Active Directory environment in preparation for migration to Azure Active Directory.
+
+### Hybrid Identity Cloud Login
+
+From [compare AD Auth methods](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn#comparing-methods):
+
+- **Password Hash synchronization + Seamless SSO** => Authentication happens in the Cloud
+- **Pass-through authentication + Seamless SSO** => Authentication happens in the cloud AFTER on premises
+- **Federation with AD FS** => On-Premises
