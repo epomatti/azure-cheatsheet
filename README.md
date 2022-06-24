@@ -180,3 +180,7 @@ From [compare AD Auth methods](https://docs.microsoft.com/en-us/azure/active-dir
 - **Password Hash synchronization + Seamless SSO** => Authentication happens in the Cloud
 - **Pass-through authentication + Seamless SSO** => Authentication happens in the cloud AFTER on premises
 - **Federation with AD FS** => On-Premises
+
+### Seamless Sign-On
+
+Seamless Sign-on is compatible with Pass-through and also Password-hash synchronization.
