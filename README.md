@@ -184,3 +184,7 @@ From [compare AD Auth methods](https://docs.microsoft.com/en-us/azure/active-dir
 ### Seamless Sign-On
 
 Seamless Sign-on is compatible with Pass-through and also Password-hash synchronization.
+
+## Blueprints
+
+Only blueprints can restrict Subscription owner permissions, such as deleting resources groups via Blueprint lock.
