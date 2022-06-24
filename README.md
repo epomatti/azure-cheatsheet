@@ -189,6 +189,10 @@ Seamless Sign-on is compatible with Pass-through and also Password-hash synchron
 
 To give an app delegated permissions, such as managing access reviews or key vault, create an App on Azure AD admin center, and apply API permissions in the app for Graph API.
 
+### Just in Time
+
+Used to have access to the VMs, but not to manage them using the portal. What would be PIM.
+
 ## Blueprints
 
 Only blueprints can restrict Subscription owner permissions, such as deleting resources groups via Blueprint lock.
