@@ -199,7 +199,7 @@ Only blueprints can restrict Subscription owner permissions, such as deleting re
 
 ## Data Factory
 
-### Intergration Runtime
+### Integration Runtime
 
 The Integration Runtime (IR) is the compute infrastructure used by Azure Data Factory and Azure Synapse pipelines to provide the following data integration capabilities across different network environments.
 
