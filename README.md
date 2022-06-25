@@ -230,3 +230,16 @@ When running SQL Server on VMs, prefer the following configuration:
 - **Logs Disk** - No Cache
 - **Data Disk** - Read-Only Cache
 
+### Disk Encryption
+
+When encrypting Managed Disks on VMs:
+
+- **Disk Encryption**
+
+It will allow for transparent encryption, and with custom keys if needed (via Key Vault).
+
+Other options:
+
+- Client-side Encryption - This will not apply to VM disks
+- Storage Service Encryption - This would be for unmanaged disks
+- Encryption File Systems (EFS) - This is for Windows only
