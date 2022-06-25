@@ -97,6 +97,8 @@ There are [several agents](https://docs.microsoft.com/en-us/azure/azure-monitor/
 - Up to 16 TB of storage size.
 - Support auto-failover.
 - Support CLR.
+- Support Linked Servers
+- Support distributed server-side transactions using Transact-SQL
 
 ### Intelligent Performance
 
