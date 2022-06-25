@@ -18,6 +18,8 @@ Collection of relevant AZ-305 notes.
 
 ## Storage Accounts
 
+### SKUs
+
 |          | V1 | V2 FileStorage <br/> (Premium) | BlobStorage <br/> (Premium) | V2 Standard | 
 | -------- | :-------------:| :---------------:|:----:| :---: | 
 | **Access Tier (Hot, Cool)**    | - | -| ✔️ | ✔️ |
@@ -25,6 +27,12 @@ Collection of relevant AZ-305 notes.
 | **Max Redundancy**    |  | ZRS | ZRS | RA-GRS | 
 | **Support Transaction Optimized**    | - | - | - | ✔️ (Files) | 
 | **Immutability**    |  | - | ✔️ | ✔️ | 
+
+### Access Tiers
+
+- **Hot** - Optimized for data accessed frequently
+- **Cool tier** - Minimum o 30 days
+- **Archive** - Minimum of 180 days
 
 
 ## Azure AD Application Proxy
