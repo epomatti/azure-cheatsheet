@@ -33,7 +33,11 @@ Collection of relevant AZ-305 notes.
 - **Hot** - Optimized for data accessed frequently
 - **Cool tier** - Minimum o 30 days
 - **Archive** - Minimum of 180 days
+ 
+### Rehydration
 
+- Hot and Cool are online
+- Archive can take up to 15 hours
 
 ## Azure AD Application Proxy
 
