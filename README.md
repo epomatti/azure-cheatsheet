@@ -44,7 +44,7 @@ Collection of relevant AZ-305 notes.
 
 - **IP Flow verify** will establish logical verification of connectivity
 - **Connection Troubleshoot** will perform real connectivity tests
-- **Traffic Analytics** provides insights over data collected by Network Watcher services, such as NSG Flow Logs
+- **Traffic Analytics** provides insights over data collected by Network Watcher services, such as NSG Flow Logs - Since it uses for example IP Flow underneath, it helps identifying connectivity issues.
 
 ## Monitor
 
