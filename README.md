@@ -256,3 +256,7 @@ Other options:
 - Client-side Encryption - This will not apply to VM disks
 - Storage Service Encryption - This would be for unmanaged disks
 - Encryption File Systems (EFS) - This is for Windows only
+
+## Reservations
+
+Reservations is a tool within Azure Portal that allows you to calculate reservation costs of resources.
