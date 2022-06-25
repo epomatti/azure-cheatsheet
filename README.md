@@ -260,3 +260,9 @@ Other options:
 ## Reservations
 
 Reservations is a tool within Azure Portal that allows you to calculate reservation costs of resources.
+
+## Cosmos DB
+
+### Consistency
+
+The highest consistency tier with write SLA guarantee is Bounded Staleness
