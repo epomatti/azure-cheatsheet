@@ -91,7 +91,8 @@ There are [several agents](https://docs.microsoft.com/en-us/azure/azure-monitor/
 | **Server License** | ✔️ | ✔️ | ✔️ |
 | **Read scale-out** | -  |  -  | ✔️ |
 | **HA Secondary Replicas** | -  |  ✔️ | - |
-| **Geo-redundant Backups** |   |   |  |
+| **Geo-redundant Backups** |  ✔️ |  ✔️ | ✔️ |
+| **Advanced Data Curruption Protection** |  - | -  | ✔️ |
 
 ### Tier: DTU
 
