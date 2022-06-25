@@ -214,6 +214,8 @@ The Integration Runtime (IR) is the compute infrastructure used by Azure Data Fa
 
 Example: Connect data from within a VM.
 
+With that you should be able to just create a pipeline directly if import files.
+
 ## Virtual Machines (VM)
 
 ### SQL Server Managed Disks
