@@ -196,3 +196,11 @@ Used to have access to the VMs, but not to manage them using the portal. What wo
 ## Blueprints
 
 Only blueprints can restrict Subscription owner permissions, such as deleting resources groups via Blueprint lock.
+
+## Data Factory
+
+### Intergration Runtime
+
+The Integration Runtime (IR) is the compute infrastructure used by Azure Data Factory and Azure Synapse pipelines to provide the following data integration capabilities across different network environments.
+
+Example: Connect data from within a VM.
