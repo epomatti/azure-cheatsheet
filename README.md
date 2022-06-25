@@ -120,12 +120,19 @@ Operations Management Suite (OMS) is a management offering which provides monito
 
 ## Azure Functions
 
+### SKUs
+
 |          | Consumption <br/> (Serverless) | Premium | Dedicated <br/> (App Service Plan)  | ASE |
 | -------- | :-------------:| :---------------:|:----:|:----:|
 | **Virtual Network**    | - | ✔️| - | ✔️ |
 
+### SendGrid
+
+Azure Functions has SendGrid connectors for emails.
 
 ## Logic Apps
+
+### Data Gateway + On-prem SQL Server
 
 It is possible to connect Logic Apps to an On-premies SQL Server by using an On-premises Data Gateway and a connection gateway resource.
 
