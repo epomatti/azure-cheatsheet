@@ -112,6 +112,11 @@ SQL offers the following resources to help with performance:
 
 Operations Management Suite (OMS) is a management offering which provides monitoring for Azure Resources through the Log Analytics service. Log Analytics enables users to collect, correlate and visualize structured and unstructured data. Through the out of the box solutions available in OMS Log Analytics, users can easily monitor and receive notifications on the health of their Azure Resources such as SQL Azure.
 
+### Data Security Operations
+
+- **Always Encrypted** - Encrypt entire columns and allow only the application access it
+- **Dynamic Data Masking** - Masks parts of sensitive data and allow, allowing for role configuration.
+- **Transparent Data Encryption** - Is the encryption at storage level of the disks
 
 ## Virtual WAN
 
@@ -224,3 +229,4 @@ When running SQL Server on VMs, prefer the following configuration:
 
 - **Logs Disk** - No Cache
 - **Data Disk** - Read-Only Cache
+
