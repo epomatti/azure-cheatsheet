@@ -204,3 +204,12 @@ Only blueprints can restrict Subscription owner permissions, such as deleting re
 The Integration Runtime (IR) is the compute infrastructure used by Azure Data Factory and Azure Synapse pipelines to provide the following data integration capabilities across different network environments.
 
 Example: Connect data from within a VM.
+
+## Virtual Machines (VM)
+
+### SQL Server Managed Disks
+
+When running SQL Server on VMs, prefer the following configuration:
+
+- **Logs Disk** - No Cache
+- **Data Disk** - Read-Only Cache
