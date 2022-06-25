@@ -22,8 +22,9 @@ Collection of relevant AZ-305 notes.
 | -------- | :-------------:| :---------------:|:----:| :---: | 
 | **Access Tier (Hot, Cool)**    | - | -| ✔️ | ✔️ |
 | **Support File Shares**    | - | ✔️ | - | ✔️ | 
-| **Max Redundancy**    |  | ZRS | ZRS |  | 
-| **Support Transaction Optimized**    |  |  |  |  | 
+| **Max Redundancy**    |  | ZRS | ZRS | RA-GRS | 
+| **Support Transaction Optimized**    | - | - | - | ✔️ (Files) | 
+| **Immutability**    |  | - | ✔️ | ✔️ | 
 
 
 ## Azure AD Application Proxy
