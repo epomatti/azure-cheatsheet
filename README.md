@@ -265,6 +265,11 @@ Other options:
 - Storage Service Encryption - This would be for unmanaged disks
 - Encryption File Systems (EFS) - This is for Windows only
 
+### Network acceleration
+
+Enable network acceleration to send network traffic directly to resources.
+
+
 ## Reservations
 
 Reservations is a tool within Azure Portal that allows you to calculate reservation costs of resources.
