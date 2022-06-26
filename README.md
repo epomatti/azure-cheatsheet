@@ -280,3 +280,10 @@ Azure Migrate is the migration tool, and Azure Site Recovery should be used for 
 ### Backup & Recovery
 
 Recovery can only be made to same subscription & geography.
+
+
+## Site Recovery
+
+### Providers
+
+For each On-premises node, a Site Recovery Provider must be installed. (It's not per VM)
