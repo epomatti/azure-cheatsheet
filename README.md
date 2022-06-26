@@ -39,6 +39,12 @@ Collection of relevant AZ-305 notes.
 - Hot and Cool are online
 - Archive can take up to 15 hours
 
+### Read-access & failover
+
+GRS replicates that data but it is not unavailable unless a failover occurs.
+
+RA-GRS makes the data always available for read in the second paired region, even if the primary becomes unavailable.
+
 ## Azure AD Application Proxy
 
 [How it works](https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy#how-application-proxy-works)
