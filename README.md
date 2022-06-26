@@ -293,3 +293,9 @@ Recovery can only be made to same subscription & geography.
 ### Providers
 
 For each On-premises node, a Site Recovery Provider must be installed. (It's not per VM)
+
+## Azure Batch
+
+### Parallel Task Execution
+
+Using a node with higher number of CPUs mean you can enable parallel task execution and reduce the number of nodes required.
