@@ -121,6 +121,9 @@ There are [several agents](https://docs.microsoft.com/en-us/azure/azure-monitor/
 - Support Linked Servers
 - Support distributed server-side transactions using Transact-SQL
 
+Managed instances DO NOT support:
+- Availability Zones
+
 ### Intelligent Performance
 
 SQL offers the following resources to help with performance:
