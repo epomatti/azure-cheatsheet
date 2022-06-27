@@ -1,6 +1,6 @@
 # AZ-305 Cheatsheet
 
-Collection of relevant AZ-305 notes.
+Collection of AZ-305 notes.
 
 ## Azure AD Identity Management
 
