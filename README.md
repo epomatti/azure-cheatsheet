@@ -45,6 +45,11 @@ GRS replicates that data but it is not unavailable unless a failover occurs.
 
 RA-GRS makes the data always available for read in the second paired region, even if the primary becomes unavailable.
 
+### Immutability
+
+- **Legal Hold:** Applied and persists until removed
+- **Time retention:** Persists changes for a period of time (requires version activation)
+
 ## Azure AD Application Proxy
 
 [How it works](https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy#how-application-proxy-works)
