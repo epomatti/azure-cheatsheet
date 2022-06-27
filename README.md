@@ -288,6 +288,8 @@ Reservations is a tool within Azure Portal that allows you to calculate reservat
 
 The highest consistency tier with write SLA guarantee is Bounded Staleness
 
+Strong consistency is the exception and cannot guarantee write SLA.
+
 ## Azure Migrate
 
 As in [this comparison](https://docs.microsoft.com/en-us/azure/migrate/resources-faq#whats-the-difference-between-azure-migrate-and-azure-site-recovery):
