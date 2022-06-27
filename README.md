@@ -121,7 +121,7 @@ There are [several agents](https://docs.microsoft.com/en-us/azure/azure-monitor/
 ### Managed instances
 
 - Up to 16 TB of storage size.
-- Support auto-failover.
+- Support auto-failover to the secondary region.
 - Support CLR.
 - Support Linked Servers
 - Support distributed server-side transactions using Transact-SQL
